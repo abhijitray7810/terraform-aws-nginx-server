@@ -3,7 +3,7 @@
 ## 📦 Project Overview
 
 This is a complete Infrastructure as Code (IaC) project that deploys a production-ready Nginx web server on AWS using Terraform. The infrastructure includes a custom VPC with public and private subnets, security groups, and an EC2 instance running Nginx.
-
+ 
 ## 🗂️ Complete File Structure
 
 ```
